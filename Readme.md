@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Vyacheslav Tsokurov](https://up.htmlacademy.ru/htmlcss/19/user/552713).
-* Наставник: `Неизвестно`.
+* Наставник: [Олег Денисов](https://up.htmlacademy.ru/htmlcss/19/user/552713).
 
 ---
 
